@@ -30,3 +30,5 @@ Want to add more? Just ping me!
 -->
 
 ![LLoyd-kai’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lloyd-kai&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd-kai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
