@@ -21,13 +21,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lloyd-kai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd-kai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</div>
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lloyd-kai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
