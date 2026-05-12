@@ -39,7 +39,7 @@
 ## 📝 Latest Blog Posts
 
 - 📖 [CS Self-Study Roadmap (1): 61A](https://lloydkai.cn/posts/CSLearning-61A/)
-- 🏗️ [Why I Left Architecture, Mechanical Engineering, and (Almost) CS](https://lloydkai.cn/posts/quit-profession/)
+- 🏗️ [Why I Left Architecture, Mechanical Engineering.And suggestions of CS](https://lloydkai.cn/posts/quit-profession/)
 - 📚 [Reading Notes: High-Quality C & C++ Programming](https://lloydkai.cn/posts/cprimeplus-note/)
 
 → More articles on my blogs: [lloydkai.cn](https://lloydkai.cn/) | [lloyd-kai.github.io](https://lloyd-kai.github.io/)
