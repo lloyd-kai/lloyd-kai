@@ -21,20 +21,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lloyd-kai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lloyd-kai&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=lloyd-kai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd-kai&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=lloyd-kai&theme=tokyonight&no-frame=true&column=6&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lloyd-kai&theme=tokyonight" alt="GitHub Contribution Summary" />
+</div>
 
 ## 📝 Latest Blog Posts
 
@@ -64,8 +62,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lloyd-kai&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
